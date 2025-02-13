@@ -1,6 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
 using tabuleiro;
-using xadrez;
 
 namespace xadrez
 {
