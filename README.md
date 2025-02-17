@@ -39,8 +39,3 @@ A estrutura do jogo foi desenvolvida utilizando várias técnicas de orientaçã
 - **Matriz**: Utilizada para representar o tabuleiro de xadrez (8x8), onde cada posição pode conter uma peça ou estar vazia.
 - **Conjuntos**: Utilizados para armazenar as jogadas válidas de uma peça, evitando duplicação e facilitando a verificação de movimentos.
 
-## Como Rodar o Projeto
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
