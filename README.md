@@ -1,6 +1,14 @@
 # Jogo de Xadrez ♟️ em C#
 
-Este repositório contém a implementação de um jogo de **xadrez** utilizando a linguagem **C#** e **técnicas de Orientação a Objetos**. O projeto foi desenvolvido no **Visual Studio** e utiliza o **.NET Framework** ou **.NET Core/5+** (dependendo da versão escolhida) para criar uma versão funcional e extensível de um jogo de xadrez.
+Este repositório contém a implementação de um jogo de **xadrez** utilizando a linguagem **C#** e **técnicas de Orientação a Objetos**. O projeto foi desenvolvido no **Visual Studio** e utiliza o **.NET Framework** ou **.NET Core/5+** para criar uma versão funcional e extensível de um jogo de xadrez.
+
+## Como Clonar o Repositório
+
+Clique no link abaixo para acessar a página do repositório no GitHub e clonar:
+
+ ```bash
+   https://github.com/juniorlevi11/Xadrez_Csharp
+ ```
 
 ## Tecnologias Utilizadas
 
